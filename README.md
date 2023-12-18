@@ -18,20 +18,20 @@ I used the dataset publicly available from https://www.kaggle.com/datasets/thang
 
 The Moving Average (MA) technique involves calculating averages of a series of data points over specific periods to smoothen out fluctuations and highlight underlying trends.
 
-![](100MA.png)
+![1](100MA.png)
 
   Calculates the average price of a stock over the past 100 trading days.
   Provides a smoothed trend line representing short to mid-term price movements.
   Helps in identifying short-term trends, crossovers, and potential support/resistance levels.
 
-![](100MA_&_200MA.png)
+![2](100MA_&_200MA.png)
 
   Computes the average price of a stock over the previous 200 trading days.
   Offers a smoother trend line, reflecting longer-term price movements.
   Used to assess long-term trends, major price reversals, and overall market direction.
 
 * LSTM ML Model
-![](Prediction_vs_Original_Price.png)
+![3](Prediction_vs_Original_Price.png)
 
  LSTM (Long Short-Term Memory) model is utilized to forecast and estimate the future behavior or performance trends of ACB Bank stocks. This model specializes in processing and understanding sequential data, allowing it to capture patterns and dependencies within historical stock data to make predictions regarding future stock movements or prices.
 
