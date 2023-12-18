@@ -19,11 +19,13 @@ I used the dataset publicly available from https://www.kaggle.com/datasets/thang
 The Moving Average (MA) technique involves calculating averages of a series of data points over specific periods to smoothen out fluctuations and highlight underlying trends.
 
 ![](100MA.png)
+
   Calculates the average price of a stock over the past 100 trading days.
   Provides a smoothed trend line representing short to mid-term price movements.
   Helps in identifying short-term trends, crossovers, and potential support/resistance levels.
 
 ![](100MA_&_200MA.png)
+
   Computes the average price of a stock over the previous 200 trading days.
   Offers a smoother trend line, reflecting longer-term price movements.
   Used to assess long-term trends, major price reversals, and overall market direction.
