@@ -21,13 +21,17 @@ The Moving Average (MA) technique involves calculating averages of a series of d
 ![[1](100MA.png)](https://github.com/HoangPham2704/Stock_Trend_Prediction/blob/main/Picture/100MA.png?raw=true)
 
   Calculates the average price of a stock over the past 100 trading days.
+  
   Provides a smoothed trend line representing short to mid-term price movements.
+ 
   Helps in identifying short-term trends, crossovers, and potential support/resistance levels.
 
 ![[2](100MA_&_200MA.png)](https://github.com/HoangPham2704/Stock_Trend_Prediction/blob/main/Picture/100MA_&_200MA.png?raw=true)
 
   Computes the average price of a stock over the previous 200 trading days.
+ 
   Offers a smoother trend line, reflecting longer-term price movements.
+ 
   Used to assess long-term trends, major price reversals, and overall market direction.
 
 * LSTM ML Model
