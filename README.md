@@ -11,6 +11,7 @@ The project revolves around leveraging a supervised Machine Learning (ML) model 
 ## About Dataset
 
 The dataset comprises Stock Prices and Volume data for the 30 companies listed in the VN30 Index in Vietnam.
+
 The dataset spans a period of ten years, from January 1st, 2013 to June 30th, 2023.
 
 ABC: ACB Bank
