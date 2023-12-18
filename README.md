@@ -1,7 +1,11 @@
 <h1 align="center">
     Predict Stock
+</h1>
+<p align="center">
+This project aims to demonstrate the application of machine learning methods in predicting stock market fluctuations. 
 
-This project aims to demonstrate the application of machine learning methods in predicting stock market fluctuations. The project revolves around leveraging a supervised Machine Learning (ML) model to forecast the forthcoming performance or trends specifically related to ACB Bank stocks.
+The project revolves around leveraging a supervised Machine Learning (ML) model to forecast the forthcoming performance or trends specifically related to ACB Bank stocks.
+</p>
 
  **Data preparation:** Remove missing and unecessary data using *pandas*.
 
