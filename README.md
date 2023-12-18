@@ -13,10 +13,12 @@ ABC: ACB Bank
 
 I used the dataset publicly available from https://www.kaggle.com/datasets/thangtranquang/stock-vn30-vietnam?select=ACB.csv
 
-### Techniques Used
+## Techniques Used
 * Moving Average
 
 The Moving Average (MA) technique involves calculating averages of a series of data points over specific periods to smoothen out fluctuations and highlight underlying trends.
+
+### 100-day Moving Average (100MA):
 
 ![[1](100MA.png)](https://github.com/HoangPham2704/Stock_Trend_Prediction/blob/main/Picture/100MA.png?raw=true)
 
@@ -25,6 +27,8 @@ The Moving Average (MA) technique involves calculating averages of a series of d
   Provides a smoothed trend line representing short to mid-term price movements.
  
   Helps in identifying short-term trends, crossovers, and potential support/resistance levels.
+
+### 200-day Moving Average (200MA):
 
 ![[2](100MA_&_200MA.png)](https://github.com/HoangPham2704/Stock_Trend_Prediction/blob/main/Picture/100MA_&_200MA.png?raw=true)
 
