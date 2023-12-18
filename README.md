@@ -50,9 +50,3 @@ The Moving Average (MA) technique involves calculating averages of a series of d
 ![Prediction_vs_Original_Price.png](https://github.com/HoangPham2704/Stock_Trend_Prediction/blob/main/Picture/Prediction_vs_Original_Price.png?raw=true)
 
  LSTM (Long Short-Term Memory) model is utilized to forecast and estimate the future behavior or performance trends of ACB Bank stocks. This model specializes in processing and understanding sequential data, allowing it to capture patterns and dependencies within historical stock data to make predictions regarding future stock movements or prices.
-
-## Outcome
-
-LSTMs capturing complex patterns and relationships within data, potentially offering improved accuracy for stock price predictions but might lack interpretability.
-
-Moving Averages offer simplicity and easy interpretation but may not capture intricate patterns or non-linear relationships in stock prices as effectively as LSTMs. 
