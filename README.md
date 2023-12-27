@@ -1,5 +1,5 @@
 <h1 align="center">
-    Predict Stock
+     Stock Trend Predict
 </h1>
 
 This repository is a testament to my learning journey
