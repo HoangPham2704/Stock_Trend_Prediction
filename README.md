@@ -2,7 +2,7 @@
     Predict Stock
 </h1>
 
-This project aims to demonstrate the application of machine learning methods in predicting stock market fluctuations. 
+This repository is a testament to my learning journey
 
 The project revolves around leveraging a supervised Machine Learning (ML) model to forecast the forthcoming performance or trends specifically related to ACB Bank stocks.
 
