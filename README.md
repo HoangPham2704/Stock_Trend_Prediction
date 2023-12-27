@@ -4,7 +4,7 @@
 
 This repository is a testament to my learning journey
 
-The project revolves around leveraging a supervised Machine Learning (ML) model to forecast the forthcoming performance or trends specifically related to ACB Bank stocks.
+The project revolves around leveraging a supervised Machine Learning (ML) model to forecast the forthcoming performance of ACB Bank stocks.
 
  **Data preparation:** Remove missing and unecessary data using *pandas*.
 
@@ -50,3 +50,7 @@ The Moving Average (MA) technique involves calculating averages of a series of d
 ![Prediction_vs_Original_Price.png](https://github.com/HoangPham2704/Stock_Trend_Prediction/blob/main/Picture/Prediction_vs_Original_Price.png?raw=true)
 
  LSTM (Long Short-Term Memory) model is utilized to forecast and estimate the future behavior or performance trends of ACB Bank stocks. This model specializes in processing and understanding sequential data, allowing it to capture patterns and dependencies within historical stock data to make predictions regarding future stock movements or prices.
+
+ ## Limitation:
+ 
+ As a newcomer in the field, this project served as a valuable learning experience. While the forecasts may not have met the desired accuracy, it provided insights into the complexities of stock forecasting and the nuances of machine learning models in financial analysis.
