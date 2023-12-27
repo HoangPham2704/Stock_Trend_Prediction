@@ -4,9 +4,7 @@
 
 This repository is a testament to my learning journey
 
-The project revolves around leveraging a supervised Machine Learning (ML) model to forecast the forthcoming performance of ACB Bank stocks.
-
- **Data preparation:** Remove missing and unecessary data using *pandas*.
+The project revolves around leveraging a supervised Machine Learning (ML) model to forecast the forthcoming performance of ACB Bank stocks. Through this endeavor, I explored methods like Moving Average (MA) to calculate average series over specific periods and implemented LSTM to predict future stock behavior.
 
 ## About Dataset
 
